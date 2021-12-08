@@ -7,5 +7,12 @@ A smile makes a gloomy day brighter,
 A rainbow will wake up from a smile in the sky.
 Share your smile,
 And she will come back to you more than once.
+<<<<<<< HEAD
 
 I like cats veryyyyy much
+=======
+/////
+..............................................
+I like cats veryyyyy much
+no
+>>>>>>> feature
